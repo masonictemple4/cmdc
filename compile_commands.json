@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-std=c++14",
+      "-o",
+      "server.o",
+      "server.cpp"
+    ],
+    "directory": "/home/masonictemple4/personal/cmdc",
+    "file": "/home/masonictemple4/personal/cmdc/server.cpp",
+    "output": "/home/masonictemple4/personal/cmdc/server.o"
+  }
+]
